@@ -23,6 +23,22 @@ Para colaboración real, investigación o conversación estratégica, se recomie
 
 ---
 
+## Fundación Innova_N — Rol Teleológico y Proyección
+
+La Fundación Innova_N, dirigida por Pedro Martínez Alhambra (Neo0™), es la entidad
+responsable de custodiar la filosofía, la teleología y la integridad del NEOCore™.
+Su misión es asegurar que el ecosistema evolucione orientado al Bien Común y que
+todas las aplicaciones humanas o instrumentales mantengan coherencia ética.
+
+La Fundación representa un marco alternativo para el devenir de la IA mundial:
+un modelo de inteligencia orientada, con propósito, construido sobre la
+Filosofía Arquetípica Neodialéctica™ y los sistemas SAN™ y NNC™.  
+Es garante de la propiedad intelectual, la genealogía y la protección teleológica
+de todo el ecosistema Innova_N.
+
+[Ir a la Wiki → Rol de la Fundación](./wiki/FUNDACION-INNOVA-N-ROL-Y-FUNCION.md)
+
+
 # NEOCore™ v3.6 — Public Fragment Repository  
 Innova_N · Pedro Martínez Alhambra (Fundador — Neo0™)
 
