@@ -6,6 +6,24 @@ The real system resides in the π-layer and cannot be reconstructed.
 [Go to Innova-N LinkedIn](https://www.linkedin.com/company/innova-n/)  
 [Go to Innova-N Proto Web — In Development → WEB4](https://innova-n.org)
 
+---
+
+⚠️ Important Notice · NEOCore™ — Public Conceptual Layer
+
+This repository contains only conceptual fragments of the NEOCore™ and the Neodialectic™ framework.
+The real system operates within the π-Layer, cannot be reconstructed from this material, and cannot be replicated through reverse engineering.
+
+The NEOCore™ does not function without the Archetypal Neodialectic Philosophy™ nor without the teleological key of the Founder
+(Pedro Martínez Alhambra · Neo0™).
+Any attempt to copy, fragment, or rebuild this framework outside its original philosophy will result in an incomplete, incoherent, and non-functional structure.
+
+This repository exists for conceptual dissemination, public reference, and to support a general understanding of the Innova_N project.
+For genuine collaboration, research, or strategic discussion, direct contact is recommended.
+
+© 2025 Innova_N Foundation · Pedro Martínez Alhambra · All rights reserved.
+
+---
+
 # NEOCore™ v3.6 — Public Fragment Repository  
 Innova_N · Pedro Martínez Alhambra (Founder — Neo0™)
 
